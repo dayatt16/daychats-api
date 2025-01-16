@@ -50,6 +50,7 @@ Day Chats API adalah aplikasi backend yang dirancang untuk manajemen komunikasi 
    ```
 
 ## Struktur Proyek
+  ```
 day-chats-api/
 ├── src/
 │   ├── config/             # Konfigurasi aplikasi (e.g., koneksi database, Firebase)
@@ -63,3 +64,4 @@ day-chats-api/
 ├── package.json            # File konfigurasi npm
 ├── package-lock.json       # File penguncian dependensi npm
 └── README.md               # Dokumentasi proyek
+  ```
